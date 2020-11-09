@@ -6,5 +6,8 @@ Currently, one of the biggest problems in relation to energy sustainability is h
 **Challenge link coming soon**
 
 ## 2: Oceanic Colonization: Smart Underwater Tech
+Stark Drones has some [underwater wireless networking and telemtry](https://www.oceancolonization.com/) solutions. However, they want to take this a step further. A challenge in regards to the environment and our limited allocation of resources, is how do we make the best of what we have? The ocean is perhaps one of our more abundant resources in the forseeable future. Not only is harnessing the full power of our ocean likely important for this civilization, but these same types of technologies may be used when we colonize other planets later on. The question is whether underwater tunnels, smart elevators, artificial land, or submarine cities, what will the solution be? Can it garnish hydroelectric sources, or what external source will power it? How can we make sure it doesn't negatively impact the environment or marine life? What makes said solution worth exploring? Many big questions can be tackled with this challenge.
+
+**Challenge link coming soon**
 
 ## 3: Astronomic Radiosonic Analysis and Transcription Pipelines
