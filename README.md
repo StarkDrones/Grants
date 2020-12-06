@@ -1,2 +1,1 @@
-# Grants
-Grant Proposals
+# Grants and Crowdsourced Challenge Proposals
