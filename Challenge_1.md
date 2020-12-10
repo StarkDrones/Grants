@@ -43,7 +43,11 @@ There are two purposes in regards to why this challenge was made: 1) To promote 
 8. [Bloomberg Quantum Library](https://github.com/bloomberg/quantum)
 
 #### Prize (Marketing Support)
+On an ongoing basis, we may chose some projects we like to get equity-free acceptance into [DigitalCPR's pre-accelerator program](https://www.digitalcpr.net/for-startups) to help make their open source solution more well known.
+
 #### Interested in Sponsoring a Phase 2?
+If you are interested in working w/ Stark Drones to sponsor a much bigger prize pool of a similar challenge or a second phase, you can contact us [here](https://www.digitalcpr.net/hire). The subject line will be "Sponsoring the Impossible: Company Name".
+
 ![Impossible](https://raw.githubusercontent.com/Mentors4EDU/Images/master/Impossible%20(1).png)
 
 ---
