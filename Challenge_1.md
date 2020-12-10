@@ -32,6 +32,16 @@ Have you wondered what is going on in outerspace? It seems like a dull question 
 There are two purposes in regards to why this challenge was made: 1) To promote innovation in regards to these solution tracks for the spirit of build something amazing. 2) To get more people using the [Open Innovation License](https://github.com/StarkDrones/OIN/blob/main/LICENSE.md) and inspire others with what type of projects can be done in the open innovation space. We aren't specifically hardware or software focused, and do promote hybrid builds as opposed to many other challenges that focuses primarily on software. We want to see what people can come up with and what type of innovation can be spawned around those three tracks.
 
 #### Possible Tools:
+*This is a list of some tools you might consider using in your project that are entirely optional. (For inspiration):*
+1. [QGIS](https://qgis.org/en/site/)
+2. [Public Lab](https://publiclab.org/)
+3. [Julia Language](https://julialang.org/)
+4. [Project Jupyter](https://jupyter.org/)
+5. [BeagleBone Black](https://beagleboard.org/black)
+6. [Wolfram Language™](https://www.wolfram.com/language/)
+7. [Decentralized Internet SDK](https://github.com/Lonero-Team/Decentralized-Internet)
+8. [Bloomberg Quantum Library](https://github.com/bloomberg/quantum)
+
 #### Prize (Marketing Support)
 #### Interested in Sponsoring a Phase 2?
 ![Impossible](https://raw.githubusercontent.com/Mentors4EDU/Images/master/Impossible%20(1).png)
