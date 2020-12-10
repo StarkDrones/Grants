@@ -47,4 +47,4 @@ There are two purposes in regards to why this challenge was made: 1) To promote 
 ![Impossible](https://raw.githubusercontent.com/Mentors4EDU/Images/master/Impossible%20(1).png)
 
 ---
-***Promote this challenge with the hashtag #theimpossible***
+***Promote this challenge w/ the hashtag #theimpossible***
