@@ -1,4 +1,4 @@
-[The Open Innovation Universtiy Hackathon](https://innovate.devpost.com/)
+[The Open Innovation University Hackathon](https://innovate.devpost.com/)
 
 **About:** A STEM hackathon for OIN projects developed by undergraduate or graduate students.
 
