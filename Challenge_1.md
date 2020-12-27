@@ -1,6 +1,6 @@
 ![ImpossibleChallenge](https://raw.githubusercontent.com/Mentors4EDU/Images/master/challenge(2).png)
 
-*Are you an open source trailbraizer? Build a project licensed under the OIN license tackling a complex innovation track.*
+*Are you an open source trailbraizer? Build a project licensed under the OPNL license tackling a complex innovation track.*
 
 ![Welcome](https://raw.githubusercontent.com/Mentors4EDU/Images/master/Welcome.png)
 ## Problem Statement
